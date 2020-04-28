@@ -16,3 +16,4 @@ Install from CRAN
 }
 \keyword{installation}
 \keyword{package}
+

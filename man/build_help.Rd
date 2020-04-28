@@ -12,3 +12,4 @@ build_help(pkgname)
 \description{
 Build Static HTML Help with knitr
 }
+

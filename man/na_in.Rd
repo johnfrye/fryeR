@@ -15,3 +15,4 @@ A named vector with column NA counts.
 \description{
 Count NAs in Data Frame
 }
+

@@ -15,3 +15,4 @@ Summarize Number of NAs by Variable
 \examples{
 natable(mtcars)
 }
+

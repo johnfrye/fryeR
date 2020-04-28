@@ -28,3 +28,4 @@ findtext
 \keyword{text}
 \keyword{vector}
 \keyword{within}
+

@@ -14,3 +14,4 @@ remove_nonconv(df, column.name)
 \description{
 Remove Nonconvertible Text
 }
+

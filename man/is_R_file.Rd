@@ -16,3 +16,4 @@ A logical value. True if the file ends in
 \description{
 Test if a file has an rmd or R extension.
 }
+

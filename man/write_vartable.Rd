@@ -18,3 +18,4 @@ write_vartable
 }
 \keyword{table}
 \keyword{variable}
+

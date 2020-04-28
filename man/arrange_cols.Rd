@@ -14,3 +14,4 @@ arrange_cols(df = df, refcols = refcols)
 \description{
 Move a set of columns to the left-hand side of a data frame
 }
+
