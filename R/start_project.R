@@ -53,7 +53,7 @@ start_project = function(cd = getwd()) {
             to = file.path(cd, 'R'))
   
   file.copy(from = file.path('~', 'Default Project Files', '.gitignore'),
-            to = cd)
+            to = cd, overwrite = TRUE)
   
   return(invisible(NULL))
 }
