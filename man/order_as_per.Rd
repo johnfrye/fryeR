@@ -17,4 +17,3 @@ a version of `fctr` with levels ordered as per `order_chars`
 \description{
 This is the way fct_relevel should work. The warning is silly.
 }
-

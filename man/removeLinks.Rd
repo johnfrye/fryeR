@@ -9,4 +9,3 @@ removeLinks(df, column.name)
 \description{
 this next chunk works fine but should be vectorized
 }
-

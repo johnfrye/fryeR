@@ -27,4 +27,3 @@ View(cal_test)
 \keyword{monthly}
 \keyword{of}
 \keyword{start}
-

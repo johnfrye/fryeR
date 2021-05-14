@@ -22,4 +22,3 @@ create_tbl_df(0, 1, 5)
 \keyword{dataframe}
 \keyword{make}
 \keyword{results}
-

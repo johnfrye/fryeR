@@ -28,4 +28,3 @@ corrtable(df)
 \keyword{of}
 \keyword{table}
 \keyword{with}
-

@@ -1,19 +1,18 @@
 #' Update this package from source
 #' 
 #' @export
-update_fryeutilities <- function() {
+update_fryeR <- function() {
   rm(list = ls())
   library("devtools")
-  unload(pkgload::inst("fryeutilities"))
+  unload(pkgload::inst("fryeR"))
   wd.orig <- getwd()
   (wd <- path.expand("~"))
   wd
   setwd(wd)
-  setwd("./R/Packages/fryeutilities")
+  setwd("./R/Packages/fryeR")
   document()
   setwd("..")
-  install("fryeutilities")
-  library("fryeutilities")
+  install("fryeR")
+  library("fryeR")
   setwd(wd.orig)
 }
-

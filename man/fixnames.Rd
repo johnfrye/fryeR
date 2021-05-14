@@ -27,4 +27,3 @@ names(df) <- fixnames(df)
 head(df)
 df
 }
-

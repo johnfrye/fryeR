@@ -12,4 +12,3 @@ Time Stamp Function, Formatted for Titles & Filenames
 \keyword{project}
 \keyword{time}
 \keyword{workflow,}
-

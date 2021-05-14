@@ -13,4 +13,3 @@ s(object, ...)
 shortcuts
 }
 \keyword{shortcuts}
-

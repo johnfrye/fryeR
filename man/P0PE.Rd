@@ -20,4 +20,3 @@ Be careful with pipes (%>%) as these mess with the
 evironment chain for eval(). Choose a suitable argument for .env
 like .GlobalEnv or a binding to sys.frame().
 }
-

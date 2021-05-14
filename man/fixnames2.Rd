@@ -27,4 +27,3 @@ df2 <- df \%>\%
 fixnames2()
 names(df2)
 }
-

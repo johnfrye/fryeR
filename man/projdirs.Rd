@@ -14,4 +14,3 @@ Create Default Folder Structure for a New Project
 }
 \keyword{project}
 \keyword{workflow}
-

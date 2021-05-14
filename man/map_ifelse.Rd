@@ -23,4 +23,3 @@ This applied to all elements: if(.p) .f(.x) else .e
 \description{
 Like map_if but with the option to specify a value for false cases.
 }
-

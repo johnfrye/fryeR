@@ -20,4 +20,3 @@ Open all package vignettes in browser tabs ready for skimming.
 howto("naniar")
 }
 }
-

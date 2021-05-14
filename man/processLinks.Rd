@@ -14,4 +14,3 @@ processLinks(x)
 \description{
 Remove Links from a String
 }
-

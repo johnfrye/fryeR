@@ -19,4 +19,3 @@ varnames <- varnames \%>\%
   mutate(variable = fixlabels(variable))
 varnames
 }
-

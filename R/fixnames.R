@@ -30,7 +30,7 @@ fixnames <- function(df){
   new_names <- gsub("'", "", new_names, fixed = TRUE)
   new_names <- gsub(",", "_", new_names, fixed = TRUE)
   new_names <- gsub("%", "percent", new_names, fixed = TRUE)
-  new_names <- gsub("+", "_plus", new_names, fixed = TRUE)
+  new_names <- gsub("+", "_plus_", new_names, fixed = TRUE)
   new_names <- gsub(":", "_", new_names, fixed = TRUE)
   new_names <- gsub("#", "number_", new_names, fixed = TRUE)
   new_names <- gsub("?", "", new_names, fixed = TRUE)
