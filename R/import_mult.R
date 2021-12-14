@@ -2,7 +2,7 @@
 #' 
 #' @param ft A fileTable of files to import and stack
 #' @export
-import_mult <- function(ft) {
+import_mult <- function(ft, ...) {
   for (i in 1:nrow(ft)){
     ft$file_path[i]
     df_sel <- import(ft$file_path[i])

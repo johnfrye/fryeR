@@ -4,7 +4,7 @@
 \alias{import_mult}
 \title{Move a set of columns to the left-hand side of a data frame}
 \usage{
-import_mult(ft)
+import_mult(ft, ...)
 }
 \arguments{
 \item{ft}{A fileTable of files to import and stack}
