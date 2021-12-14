@@ -2,8 +2,6 @@
 #'
 #' @param df dataframe whose column text you want to standardize
 #' @export
-#' @examples
-
 fixtext <- function(df, colnames){
   for (i in 1:length(colnames)){
     x <- df[, colname[i]]

@@ -4,10 +4,12 @@
 \alias{import_mult}
 \title{Move a set of columns to the left-hand side of a data frame}
 \usage{
-import_mult(ft, which_sel = 1)
+import_mult(ft, which = 1)
 }
 \arguments{
 \item{ft}{A fileTable of files to import and stack}
+
+\item{which}{which worksheet tab to import (integer)}
 }
 \description{
 Move a set of columns to the left-hand side of a data frame
